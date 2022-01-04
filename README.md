@@ -2,7 +2,11 @@
 
 <em><a href="https://github.com/OnlineMiniHack/minihack">Mini Hack</a> is a monthly meetup where teams of between 3 and 6 people compete to produce the best solution to a given problem.</em>
 
-I am currently in the process of collecting artefacts from the 12 Mini Hack events that I have participated in to date. See below for the first few events.
+I have participated in <b>12</b> Mini Hack events to date. See below for details of what I worked on the first 8 of them (details for the remaining 4 events coming soon)!
+
+I was also winner of the first six month league.
+
+<img src="img/certificate.png"></img>
 
 
 <table style="width:100%; text-align:center; border:none; table-layout: fixed">
@@ -21,6 +25,42 @@ I am currently in the process of collecting artefacts from the 12 Mini Hack even
     <th width="15%" style="width:33%; text-align:center">Task</th>
     <th width="30%" style="width:33%; text-align:center">Info</th>
     <th width="5%" style="width:33%; text-align:center">Links</th>
+  </tr>
+
+  <!-- Mini Hack 10 -->
+  <tr>
+    <td align="center" width="15%" style="width:33%; text-align:center"><a href="https://github.com/OnlineMiniHack/minihack/blob/master/hack10/hack10.md">Mini Hack 10</a><br>4 Aug 2021</td>
+    <td align="center" width="25%" style="width:33%; text-align:center"><a href="https://github.com/OnlineMiniHack/minihack/tree/master/hack10/orange_team"><img src="img/minihack10.PNG"></img></a></td>
+    <td align="center" width="15%" style="width:33%; text-align:center"><em>tell an interactive story</em></td>
+    <td align="center" width="30%" style="width:33%; text-align:center">Worked with Petar Dimov on the Orange Team to tell the story of Mini Hack using <a href="https://twinery.org/">Twinery</a></td>
+    <td align="center" width="5%" style="width:33%; text-align:center"><a href="https://github.com/OnlineMiniHack/minihack/tree/master/hack10/orange_team">code</a></td>
+  </tr>
+
+  <!-- Mini Hack 9 -->
+  <tr>
+    <td align="center" width="15%" style="width:33%; text-align:center"><a href="https://github.com/OnlineMiniHack/minihack/blob/master/hack9/hack9.md">Mini Hack 9</a><br>22 Jun 2021</td>
+    <td align="center" width="25%" style="width:33%; text-align:center"><a href="https://github.com/OnlineMiniHack/minihack/tree/master/hack9/red-team"><img src="img/minihack9.PNG"></img></a></td>
+    <td align="center" width="15%" style="width:33%; text-align:center"><em>create an secured application with a series of "back doors"</em></td>
+    <td align="center" width="30%" style="width:33%; text-align:center">Worked as part of the Red Team to develop a password login page that allows access when the user says "my voice is my password", following by a facial recognition check that allows access if the user is holding a banana (or does it...?) using HTML and JavaScript.</td>
+    <td align="center" width="5%" style="width:33%; text-align:center"><a href="https://github.com/OnlineMiniHack/minihack/tree/master/hack9/red-team">code</a></td>
+  </tr>
+
+  <!-- Mini Hack 8 -->
+  <tr>
+    <td align="center" width="15%" style="width:33%; text-align:center"><a href="https://github.com/OnlineMiniHack/minihack/blob/master/hack8/hack8.md">Mini Hack 8</a><br>25 May 2021</td>
+    <td align="center" width="25%" style="width:33%; text-align:center"><a href="https://github.com/OnlineMiniHack/minihack/tree/master/hack8/green_team"><img src="img/minihack8.png"></img></a></td>
+    <td align="center" width="15%" style="width:33%; text-align:center"><em>create a system that manages train schedules</em></td>
+    <td align="center" width="30%" style="width:33%; text-align:center">Worked as part of the Green Team to put together a browser-based game where players have to remove leaves from in front of a moving train using HTML and JavaScript.
+    <td align="center" width="5%" style="width:33%; text-align:center"><a href="https://github.com/OnlineMiniHack/minihack/tree/master/hack8/green_team">code</a></td>
+  </tr>
+
+  <!-- Mini Hack 6 -->
+  <tr>
+    <td align="center" width="15%" style="width:33%; text-align:center"><a href="https://github.com/OnlineMiniHack/minihack/blob/master/hack6/hack6.md">Mini Hack 6</a><br>23 Mar 2021</td>
+    <td align="center" width="25%" style="width:33%; text-align:center"><a href="https://easter-egg-hunt.netlify.app/"><img src="img/minihack6.png"></img></a></td>
+    <td align="center" width="15%" style="width:33%; text-align:center"><em>create an "Easter Egg" hunt</em></td>
+    <td align="center" width="30%" style="width:33%; text-align:center">Worked as part of the Yellow Team to create website about Easter packed with tons of Easter Eggs!
+    <td align="center" width="5%" style="width:33%; text-align:center"><a href="https://easter-egg-hunt.netlify.app/">site</a><br><br><a href="https://github.com/OnlineMiniHack/minihack/tree/master/hack6/yellow_team">code</a></td>
   </tr>
 
   <!-- Mini Hack 5 -->
@@ -60,7 +100,3 @@ I am currently in the process of collecting artefacts from the 12 Mini Hack even
   </tr>
   </tbody>
 </table>
-
-
-
-<!-- https://easter-egg-hunt.netlify.app/ -->
