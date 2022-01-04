@@ -11,16 +11,23 @@
   </colgroup>  
   <tbody>
   <tr>
-    <td width="10%" style="width:33%; text-align:center">Event</td>
-    <td width="25%" style="width:33%; text-align:center">Image</td>
-    <td width="15%" style="width:33%; text-align:center">Task</td>
-    <td width="30%" style="width:33%; text-align:center">Info</td>
-    <td width="10%" style="width:33%; text-align:center">Links</td>
+    <th width="10%" style="width:33%; text-align:center">Event</th>
+    <th width="25%" style="width:33%; text-align:center">Image</th>
+    <th width="15%" style="width:33%; text-align:center">Task</th>
+    <th width="30%" style="width:33%; text-align:center">Info</th>
+    <th width="10%" style="width:33%; text-align:center">Links</th>
+  </tr>
+  <tr>
+    <td width="10%" style="width:33%; text-align:center"><a href="https://github.com/OnlineMiniHack/minihack/blob/master/hack3/red/hack3.md">Mini Hack 3</a><br>21 Dec 2021</td>
+    <td width="25%" style="width:33%; text-align:center"><a href="https://github.com/OnlineMiniHack/minihack/tree/master/hack3/red"><img src="img/minihack2.png"></img></a></td>
+    <td width="15%" style="width:33%; text-align:center"><em>build something that counts the days until Christmas</em></td>
+    <td width="30%" style="width:33%; text-align:center">Worked with George W Langham on an "on this day" advent webpage</td>
+    <td width="25%" style="width:33%; text-align:center"><a href="https://github.com/OnlineMiniHack/minihack/tree/master/hack3/red">code</a></td>
   </tr>
   <tr>
     <td width="10%" style="width:33%; text-align:center"><a href="https://github.com/OnlineMiniHack/minihack/blob/master/hack2/hack2.md">Mini Hack 2</a><br>23 Nov 2021</td>
-    <td width="25%" style="width:33%; text-align:center"><img src="img/minihack2.png"></img></td>
-    <td width="15%" style="width:33%; text-align:center">create a game with no graphics</td>
+    <td width="25%" style="width:33%; text-align:center"><a href="https://memory-game-mini-hack.netlify.app/"><img src="img/minihack3.png"></img></a></td>
+    <td width="15%" style="width:33%; text-align:center"><em>create a game with no graphics</em></td>
     <td width="30%" style="width:33%; text-align:center">Worked with <a href="https://github.com/J-R-Oliver">James Oliver</a> on the Blue Team to create a browser-based game where players have to remember a list of fruit names spoken to them by the speechSynthesis API.</td>
     <td width="25%" style="width:33%; text-align:center"><a href="https://memory-game-mini-hack.netlify.app/">app</a> | <a href="https://github.com/OnlineMiniHack/minihack/tree/master/hack2/blue">code</a></td>
   </tr>
