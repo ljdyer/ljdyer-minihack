@@ -1,4 +1,8 @@
-# ljdyer-minihack
+# Mini Hack
+
+<em><a href="https://github.com/OnlineMiniHack/minihack">Mini Hack</a> is a monthly meetup where teams of between 3 and 6 people compete to produce the best solution to a given problem.</em>
+
+I am currently in the process of collecting artefacts from the 12 Mini Hack events that I have participated in to date. See below for the first few events.
 
 
 <table style="width:100%; text-align:center; border:none; table-layout: fixed">
