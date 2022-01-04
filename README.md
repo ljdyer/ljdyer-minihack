@@ -31,7 +31,7 @@
   <!-- Mini Hack 4 -->
   <tr>
     <td align="center" width="10%" style="width:33%; text-align:center"><a href="https://github.com/OnlineMiniHack/minihack/blob/master/hack4/hack4.md">Mini Hack 4</a><br>19 Jan 2021</td>
-    <td align="center" width="25%" style="width:33%; text-align:center"><a href="https://youtu.be/W0FYjyfM_fI"><img src="img/minihack4.png"></img></a></td>
+    <td align="center" width="25%" style="width:33%; text-align:center"><a href="https://youtu.be/W0FYjyfM_fI"><img src="img/minihack4.PNG"></img></a></td>
     <td align="center" width="15%" style="width:33%; text-align:center"><em>break a high value asset out of prison</em></td>
     <td align="center" width="30%" style="width:33%; text-align:center">Worked as part of the Green Team to program a micro:bit to play "Happy Birthday" and display a cryptic message using <a href="https://makecode.microbit.org/">MakeCode</a> and JavaScript.</td>
     <td align="center" width="25%" style="width:33%; text-align:center"><a href="https://youtu.be/W0FYjyfM_fI">YouTube</a> | <a href="https://github.com/OnlineMiniHack/minihack/tree/master/hack4/greenteam">code</a></td>
