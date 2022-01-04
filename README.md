@@ -34,7 +34,7 @@
     <td align="center" width="25%" style="width:33%; text-align:center"><a href="https://youtu.be/W0FYjyfM_fI"><img src="img/minihack4.PNG"></img></a></td>
     <td align="center" width="15%" style="width:33%; text-align:center"><em>break a high value asset out of prison</em></td>
     <td align="center" width="30%" style="width:33%; text-align:center">Worked as part of the Green Team to program a micro:bit to play "Happy Birthday" and display a cryptic message using <a href="https://makecode.microbit.org/">MakeCode</a> and JavaScript.</td>
-    <td align="center" width="8%" style="width:33%; text-align:center"><a href="https://youtu.be/W0FYjyfM_fI">YouTube</a> | <a href="https://github.com/OnlineMiniHack/minihack/tree/master/hack4/greenteam">code</a></td>
+    <td align="center" width="8%" style="width:33%; text-align:center"><a href="https://youtu.be/W0FYjyfM_fI">YouTube</a><br><br><a href="https://github.com/OnlineMiniHack/minihack/tree/master/hack4/greenteam">code</a></td>
   </tr>
 
   <!-- Mini Hack 3 -->
@@ -52,7 +52,7 @@
     <td align="center" width="25%" style="width:33%; text-align:center"><a href="https://memory-game-mini-hack.netlify.app/"><img src="img/minihack2.png"></img></a></td>
     <td align="center" width="15%" style="width:33%; text-align:center"><em>create a game with no graphics</em></td>
     <td align="center" width="30%" style="width:33%; text-align:center">Worked with <a href="https://github.com/J-R-Oliver">James Oliver</a> on the Blue Team to create a browser-based game where players have to remember a list of fruit names spoken to them by the speechSynthesis API using HTML and JavaScript.</td>
-    <td align="center" width="8%" style="width:33%; text-align:center"><a href="https://memory-game-mini-hack.netlify.app/">app</a> | <a href="https://github.com/OnlineMiniHack/minihack/tree/master/hack2/blue">code</a></td>
+    <td align="center" width="8%" style="width:33%; text-align:center"><a href="https://memory-game-mini-hack.netlify.app/">app</a><br><br><a href="https://github.com/OnlineMiniHack/minihack/tree/master/hack2/blue">code</a></td>
   </tr>
   </tbody>
 </table>
