@@ -6,7 +6,7 @@ I have participated in <b>12</b> Mini Hack events to date. See below for details
 
 I was also winner of the first six month league.
 
-<p align="center" <img src="img/certificate.png"></img></p>
+<p align="center"> <img src="img/certificate.png"></img></p>
 
 
 <table style="width:100%; text-align:center; border:none; table-layout: fixed">
@@ -32,7 +32,7 @@ I was also winner of the first six month league.
     <td align="center" width="15%" style="width:33%; text-align:center"><a href="https://github.com/OnlineMiniHack/minihack/blob/master/hack10/hack10.md">Mini Hack 10</a><br>4 Aug 2021</td>
     <td align="center" width="25%" style="width:33%; text-align:center"><a href="https://github.com/OnlineMiniHack/minihack/tree/master/hack10/orange_team"><img src="img/minihack10.PNG"></img></a></td>
     <td align="center" width="15%" style="width:33%; text-align:center"><em>tell an interactive story</em></td>
-    <td align="center" width="30%" style="width:33%; text-align:center">Worked with Petar Dimov on the Orange Team to tell the story of Mini Hack using <a href="https://twinery.org/">Twinery</a></td>
+    <td align="center" width="30%" style="width:33%; text-align:center">Worked with Petar Dimov on the Orange Team to tell the story of Mini Hack using <a href="https://twinery.org/">Twinery</a>.</td>
     <td align="center" width="5%" style="width:33%; text-align:center"><a href="https://github.com/OnlineMiniHack/minihack/tree/master/hack10/orange_team">code</a></td>
   </tr>
 
