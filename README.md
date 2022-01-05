@@ -26,8 +26,8 @@ I was <a href="img/certificate.png">winner</a> of the first six month league.
 
   <!-- Mini Hack 14 -->
   <tr>
-    <td align="center" width="15%" style="width:33%; text-align:center"><a href="#">Mini Hack 14</a><br>20 Dec 2021</td>
-    <td align="center" width="25%" style="width:33%; text-align:center"><a href="#"><img src="img/minihack14.PNG"></img></a></td>
+    <td align="center" width="15%" style="width:33%; text-align:center">Mini Hack 14<br>20 Dec 2021</td>
+    <td align="center" width="25%" style="width:33%; text-align:center"><img src="img/minihack14.png"></img></td>
     <td align="center" width="15%" style="width:33%; text-align:center"><em>display as many words as you can that rhyme in 30 seconds</em></td>
     <td align="center" width="30%" style="width:33%; text-align:center">Worked with <a href="https://github.com/pgillett">Peter Gillett</a> to find the highest-scoring group of rhyming words from the cmudict corpus using Python and display them on the screen using HTML, JavaScript and CSS.</td>
     <td align="center" width="5%" style="width:33%; text-align:center"></td>
@@ -35,8 +35,8 @@ I was <a href="img/certificate.png">winner</a> of the first six month league.
 
   <!-- Mini Hack 13 -->
   <tr>
-    <td align="center" width="15%" style="width:33%; text-align:center"><a href="https://github.com/OnlineMiniHack/minihack/blob/master/hack13/hack13.md">Mini Hack 13</a><br>16 Nov 2021</td>
-    <td align="center" width="25%" style="width:33%; text-align:center"><a href="#"><img src="img/minihack13.PNG"></img></a></td>
+    <td align="center" width="15%" style="width:33%; text-align:center">Mini Hack 13<br>16 Nov 2021</td>
+    <td align="center" width="25%" style="width:33%; text-align:center"><img src="img/minihack13.PNG"></a></td>
     <td align="center" width="15%" style="width:33%; text-align:center"><em>create a system to replaces a jewellery shop alarm system</em></td>
     <td align="center" width="30%" style="width:33%; text-align:center">Worked with my team to develop a voice-controlled alarm system with a login vulnerability using HTML and JavaScript.</td>
     <td align="center" width="5%" style="width:33%; text-align:center"></td>
