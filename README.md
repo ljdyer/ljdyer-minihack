@@ -4,10 +4,7 @@
 
 I have participated in <b>12</b> Mini Hack events to date. See below for details of what I worked on the first 8 of them (details for the remaining 4 events coming soon)!
 
-I was also winner of the first six month league.
-
-<p align="center"> <img src="img/certificate.png"></img></p>
-
+I was also <a href="img/certificate.png">winner</a> of the first six month league.
 
 <table style="width:100%; text-align:center; border:none; table-layout: fixed">
   <colgroup>
