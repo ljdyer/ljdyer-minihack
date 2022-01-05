@@ -46,7 +46,7 @@ I was <a href="img/certificate.png">winner</a> of the first six month league.
   <tr>
     <td align="center" width="15%" style="width:33%; text-align:center"><a href="https://github.com/OnlineMiniHack/minihack/blob/master/hack12/hack12.md">Mini Hack 12</a><br>12 Oct 2021</td>
     <td align="center" width="25%" style="width:33%; text-align:center"><a href="https://github.com/OnlineMiniHack/minihack/tree/master/hack12/red_team"><img src="img/minihack12.PNG"></img></a></td>
-    <td align="center" width="15%" style="width:33%; text-align:center"><em>convince a jewelery shop planning department that their plans have been taken by the water board and not stolen</em></td>
+    <td align="center" width="15%" style="width:33%; text-align:center"><em>convince a jewelery shop planning department that their plans were taken by the water board</em></td>
     <td align="center" width="30%" style="width:33%; text-align:center">Worked as part of the Red Team to create a fake recording of plans being retreived from a database and a hidden Google Chrome extension that changes the content of the BBC and Severn Trent water websites using HTML and JavaScript.</td>
     <td align="center" width="5%" style="width:33%; text-align:center"><a href="https://github.com/OnlineMiniHack/minihack/tree/master/hack12/red_team">code</a></td>
   </tr>
