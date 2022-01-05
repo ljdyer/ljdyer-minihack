@@ -2,9 +2,9 @@
 
 <em><a href="https://github.com/OnlineMiniHack/minihack">Mini Hack</a> is a monthly meetup where teams of between 3 and 6 people compete to produce the best solution to a given problem.</em>
 
-I have participated in <b>12</b> Mini Hack events to date. See below for details of what I worked on the first 8 of them (details for the remaining 4 events coming soon)!
+I have participated in <b>12</b> Mini Hack events to date. See below for details of what I worked on each week. Apologies that I couldn't remember the names of everyone I worked with - if I worked with you but you are not mentioned below please get in touch and I will add you to the description!
 
-I was also <a href="img/certificate.png">winner</a> of the first six month league.
+I was <a href="img/certificate.png">winner</a> of the first six month league.
 
 <table style="width:100%; text-align:center; border:none; table-layout: fixed">
   <colgroup>
@@ -29,8 +29,8 @@ I was also <a href="img/certificate.png">winner</a> of the first six month leagu
     <td align="center" width="15%" style="width:33%; text-align:center"><a href="#">Mini Hack 14</a><br>20 Dec 2021</td>
     <td align="center" width="25%" style="width:33%; text-align:center"><a href="#"><img src="https://github.com/ljdyer/readme-img/blob/main/minihack14.png"></img></a></td>
     <td align="center" width="15%" style="width:33%; text-align:center"><em>display as many words as you can that rhyme in 30 seconds</em></td>
-    <td align="center" width="30%" style="width:33%; text-align:center">Worked with my team to find the highest-scoring group of rhyming words from the cmudict corpus using Python and display them on the screen using HTML, JavaScript and CSS.</td>
-    <td align="center" width="5%" style="width:33%; text-align:center">></td>
+    <td align="center" width="30%" style="width:33%; text-align:center">Worked with <a href="https://github.com/pgillett">Peter Gillett</a> to find the highest-scoring group of rhyming words from the cmudict corpus using Python and display them on the screen using HTML, JavaScript and CSS.</td>
+    <td align="center" width="5%" style="width:33%; text-align:center"></td>
   </tr>
 
   <!-- Mini Hack 13 -->
@@ -39,7 +39,7 @@ I was also <a href="img/certificate.png">winner</a> of the first six month leagu
     <td align="center" width="25%" style="width:33%; text-align:center"><a href="#"><img src="img/minihack13.PNG"></img></a></td>
     <td align="center" width="15%" style="width:33%; text-align:center"><em>create a system to replaces a jewellery shop alarm system</em></td>
     <td align="center" width="30%" style="width:33%; text-align:center">Worked with my team to develop a voice-controlled alarm system with a login vulnerability using HTML and JavaScript.</td>
-    <td align="center" width="5%" style="width:33%; text-align:center">></td>
+    <td align="center" width="5%" style="width:33%; text-align:center"></td>
   </tr>
 
   <!-- Mini Hack 12 -->
