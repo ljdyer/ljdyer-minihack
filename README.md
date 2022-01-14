@@ -35,7 +35,7 @@ I was <a href="img/certificate.png">winner</a> of the first six month league.
 
   <!-- Mini Hack 13 -->
   <tr>
-    <td align="center" width="15%" style="width:33%; text-align:center">Mini Hack 13<br>16 Nov 2021</td>
+    <td align="center" width="15%" style="width:33%; text-align:center"><a href="https://github.com/OnlineMiniHack/minihack/blob/master/hack13/hack13.md">Mini Hack 13</a><br>16 Nov 2021</td>
     <td align="center" width="25%" style="width:33%; text-align:center"><img src="img/minihack13.PNG"></a></td>
     <td align="center" width="15%" style="width:33%; text-align:center"><em>create a system to replace a jewellery shop alarm system</em></td>
     <td align="center" width="30%" style="width:33%; text-align:center">Worked with my team to develop a voice-controlled alarm system with a login vulnerability using HTML and JavaScript.</td>
